@@ -1,4 +1,4 @@
 module.exports = (num) => {
-	console.log(num);
-	return num * 2;
+  console.log(num);
+  return num * 2;
 }
