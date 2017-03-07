@@ -1,0 +1,22 @@
+{
+  "name": "node_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsohara/node_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsohara/node_sample/issues"
+  },
+  "homepage": "https://github.com/tsohara/node_sample#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
